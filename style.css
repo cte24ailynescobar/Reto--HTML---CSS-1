@@ -1,0 +1,24 @@
+* {
+ margin: 10 px;
+ background-color: rgb(153, 189, 255);
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ #h1b{
+    color:rgb(14, 95, 255);
+    text-align: center;
+    margin: 10px;
+
+ }
+ img{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    height: 400px;
+    width: 500px;
+
+ }
+ parrafos{
+    color :rgb(14, 14, 71)
+    text-align: center;
+
+ }
